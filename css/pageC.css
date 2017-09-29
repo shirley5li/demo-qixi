@@ -24,6 +24,18 @@
     background-size: 100% 100%;
 }
 
+/*图标*/
+.icon{
+    width: 150px;
+    height: 80px;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    overflow: hidden;
+    background-image: url(images/logo.png);
+
+}
+
 /*花瓣*/
 .flutteringFlower {
 	width: 100%;
@@ -328,8 +340,8 @@
 /*logo效果*/
 
 .logo {
-    width: 185px;
-    height: 81px;
+    width: 181px;
+    height: 85px;
     background-image: url(http://img.mukewang.com/55ade2110001708401850081.png);
     z-index: 999999;
     position: absolute;
@@ -337,6 +349,7 @@
     margin-left: -92.5px;
     top: 30px;
     display: none;
+    
 }
 .logolightSpeedIn {
     display: block;

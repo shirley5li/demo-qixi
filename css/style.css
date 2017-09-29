@@ -210,3 +210,14 @@
            background-position: -603px -291px;
        }
    }
+   /*图标*/
+.icon{
+    width: 150px;
+    height: 80px;
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    overflow: hidden;
+    background-image: url(images/logo.png);
+
+}
